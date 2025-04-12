@@ -5,7 +5,7 @@ function Header(){
     return(
         <>
             <header className="header">
-                <h1>Visual Studio</h1>
+                <h1>Visual Studio Code</h1>
             </header>
         </>
     );

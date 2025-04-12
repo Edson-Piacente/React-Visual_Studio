@@ -4,8 +4,8 @@ import "./Footer.css";
 function Footer(){
     return(
         <footer>
-            <p>Desenvolvido por Edson Fernando Piacente Barbarini.</p>
-            <p>Inspirado no Visual Studio </p>
+            <p>Desenvolvido por Rafael de Lima.</p>
+            <p>Inspirado no Visual Studio Code </p>
             <p>Professor Gustavo.</p>
         </footer>
     );
